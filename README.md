@@ -12,7 +12,7 @@ O projeto está organizado nas seguintes pastas:
 ## Como Instalar e Executar
 
 ### Pré-requisitos
-- [Go](https://golang.org/dl/) instalado (versão 1.16 ou superior recomendada).
+- [Go](https://golang.org/dl/) instalado (Recomenda-se usar a versão 1.26.3).
 
 ### Execução
 1. Clone o repositório ou baixe os arquivos.
